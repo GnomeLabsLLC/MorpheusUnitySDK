@@ -18,7 +18,7 @@ Decentralized AI and Smart Agents can bring transformative potential to game dev
 
 ------
 
-## Goals
+## Objectives
 
 - Easily integrate decentralized LLM inference into video games through the Morpheus router / Morpheus Lumerin Node system 
 - Integrate Smart Agent functionality so that video games and metaverses can have Smart NPCs with access to crypto wallets 
